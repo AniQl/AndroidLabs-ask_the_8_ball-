@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Homework 3</string>
+    <string name="listening">What is your question?</string>
+
+    <string-array name="AnswersPositive">
+        <item>It is certain.</item>
+      <item>It is decidedly so.</item>
+        <item>Without a doubt.</item>
+        <item>Yes - definitely.</item>
+        <item>You may rely on it.</item>
+        <item>As I see it, yes.</item>
+        <item>Most likely.</item>
+        <item>Outlook good.</item>
+        <item>Yes.</item>
+        <item>Signs point to yes.</item>
+    </string-array>
+    <string-array name="AnswersNeutral">
+        <item>Reply hazy, try again.</item>
+      <item>Ask again later.</item>
+        <item>Better not tell you now.</item>
+        <item>Cannot predict now.</item>
+        <item>Concentrate and ask again.</item>
+        <item>Maybe..</item>
+    </string-array>
+    <string-array name="AnswersNegative">
+        <item>Definitely not! </item>
+       <item>Don\'t count on it.</item>
+        <item>My reply is no.</item>
+        <item>My sources say no.</item>
+        <item>Outlook not so good.</item>
+        <item>Very doubtful.</item>
+        <item>No.</item>
+    </string-array>
+</resources>
